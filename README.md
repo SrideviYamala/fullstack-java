@@ -1,2 +1,2 @@
 # fullstack-java
-Includes all java related content
+<bold> Includes all java related content </bold>
